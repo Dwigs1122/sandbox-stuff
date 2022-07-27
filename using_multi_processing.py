@@ -91,7 +91,7 @@ def master_commander_in_chief():
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    # todo: demonstrate mid-task callbacks back to this controller module...
+    # todo: demonstrate mid-task callbacks back to this controller module (for communicating back from child module to PLC, via opc, all within this 'using_multi_processing.py' controller ...
     master_commander_in_chief()
 
 
